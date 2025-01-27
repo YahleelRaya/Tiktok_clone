@@ -9,11 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/nextjs": "6.9.12",
+    "@clerk/clerk-react": "^5.22.6",
+    "@clerk/nextjs": "^6.9.12",
     "@types/node": "^22.10.7",
     "@types/react": "^19.0.7",
     "@types/react-dom": "^19.0.3",
     "@types/react-syntax-highlighter": "^15.5.13",
+    "@vercel/blob": "^0.27.1",
     "autoprefixer": "^10.4.20",
     "clsx": "^2.1.1",
     "next": "15.1.4",
@@ -21,6 +23,7 @@
     "prism-react-renderer": "^2.4.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-icons": "^5.4.0",
     "react-syntax-highlighter": "^15.6.1",
     "tailwindcss": "^3.4.17",
     "typescript": "^5.7.3"
